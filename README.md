@@ -1,3 +1,3 @@
-# test.repo
-## this is a secondary heading
-### this is a tertiary heading
+# Test.repo
+## This is a secondary heading
+### This is a tertiary heading
